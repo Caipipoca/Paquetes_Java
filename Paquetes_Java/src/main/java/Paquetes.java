@@ -7,7 +7,7 @@ public class Paquetes {
         System.out.println("Trabajando con paquetes: ");
     }
     
-    // Paquetes
+    // Paquetes organizar Clases limitar el acesso a sus clases
     
     
     
