@@ -1,8 +1,5 @@
-
-/**
- *
- * @author caipipoca
- */
+// @author caipipoca
+ 
 public class Paquetes {
     
     public static void main(String[] args) {
